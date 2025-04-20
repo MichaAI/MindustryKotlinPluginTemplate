@@ -31,6 +31,6 @@ Only use implementation if you want to package another Java library with your mo
 # Note
 
 Unlike the mods, you don't need to have AndroidSDK for building plugins, because they run on the standard JVM.
-This template don't include GitHub Actions, because I think you never use it for plugins.
+This template doesn't include GitHub Actions, because I think you never use it for plugins.
 
 Author: [MichaAI](https://github.com/MichaAI)
