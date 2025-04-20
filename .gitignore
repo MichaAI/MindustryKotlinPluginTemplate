@@ -154,3 +154,10 @@ gradle-app.setting
 .DS_Store
 Thumbs.db
 android/libs/
+
+# Kotlin
+.kotlin
+
+# Plugin specific
+build
+server-release.jar

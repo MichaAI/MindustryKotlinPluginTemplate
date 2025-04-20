@@ -4,14 +4,15 @@ Features:
 - ShadowJar plugin
 - Commands Structure
 - Kts gradle build script
-
+- Start script
 # How to use
 
 1. Create repository using this template
 2. Rename `rename.me` to you package name
 3. Edit `src/main/resources/plugin.json`
 4. Run `./gradlew shadowJar` (linux/mac) or `gradlew shadowJar` (windows)
-5. 
+
+Linux/Mac users can use `./start.sh`, this script do all annoying things for you, such as downloading server JAR, build project, copy mods and run everything.
 # Requirements
 
 - [Kotlin](https://kotlinlang.org/)
